@@ -468,7 +468,6 @@ linear-regression/
 │
 ├── data/
 │   ├── california_housing.csv
-│   └── 1-s2.0-S0142061515300429-main.pdf
 │
 ├── images/
 │   ├── median_income_distribution.png
